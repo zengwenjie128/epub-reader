@@ -2,6 +2,10 @@
 
 A terminal-based EPUB reader built with [ratatui](https://github.com/ratatui-org/ratatui).
 
+![epub-reader screenshot](example.png)
+
+Left panel shows the table of contents (`t` to toggle); right panel shows the chapter content with a scrollbar. The status bar at the bottom shows available keybindings.
+
 ## Features
 
 - Read EPUB files in the terminal
